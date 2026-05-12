@@ -1,8 +1,7 @@
 # Flamengo na Libertadores 2019: A Campanha do Título 🔴⚫🏆
 
 ## Sobre o projeto
-Dashboard desenvolvido no Power BI analisando a campanha histórica 
-do Flamengo na Copa Libertadores 2019.
+Dashboard desenvolvido no Power BI analisando a campanha histórica do Flamengo na Copa Libertadores 2019.
 
 ## Perguntas respondidas
 - Qual foi o aproveitamento do Flamengo na campanha?
@@ -19,5 +18,5 @@ do Flamengo na Copa Libertadores 2019.
 - Dados coletados manualmente
 
 ## Autor
-Theodoro Queiroz
-Redator publicitário em transição para análise de dados
+Theodoro Oliveira
+Redator publicitário em transição para Business Intelligence/Análise de Dados
